@@ -1,0 +1,7 @@
+C:\Users\andre.padial\Documents\Visual Studio 2015\Projects\Rendimento.Layout\Rendimento.Layout\bin\Debug\Rendimento.Layout.dll
+C:\Users\andre.padial\Documents\Visual Studio 2015\Projects\Rendimento.Layout\Rendimento.Layout\bin\Debug\Rendimento.Layout.pdb
+C:\Users\andre.padial\Documents\Visual Studio 2015\Projects\Rendimento.Layout\Rendimento.Layout\bin\Debug\Dapper.dll
+C:\Users\andre.padial\Documents\Visual Studio 2015\Projects\Rendimento.Layout\Rendimento.Layout\bin\Debug\Dapper.xml
+C:\Users\andre.padial\Documents\Visual Studio 2015\Projects\Rendimento.Layout\Rendimento.Layout\obj\Debug\Rendimento.Layout.dll
+C:\Users\andre.padial\Documents\Visual Studio 2015\Projects\Rendimento.Layout\Rendimento.Layout\obj\Debug\Rendimento.Layout.pdb
+C:\Users\andre.padial\Documents\Visual Studio 2015\Projects\Rendimento.Layout\Rendimento.Layout\obj\Debug\Rendimento.Layout.csprojResolveAssemblyReference.cache
